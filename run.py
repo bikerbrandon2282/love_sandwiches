@@ -85,4 +85,5 @@ def main():
     new_surplus_data = calculate_surplus_data(sales_data)
     update_worksheet(new_surplus_data, "surplus")
 
+print("Welcome to Love Sandwiches Data Automation\n")
 main()
